@@ -4,7 +4,7 @@ const lerTexto = require("readline-sync");
 //Banco de Dados
 let usuarioCerto = "ian";
 let senhaCerta = "12345";
-let senhaAdmin = "4321";
+let senhaAdmin = "54321";
 let cardapio = [
   "brigadeiro",
   "cuscuz",
